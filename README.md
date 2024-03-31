@@ -13,7 +13,7 @@
 - 👀 I’m a data analyst who enjoys documenting learning journey.
 - 🌱 I love data storytelling.
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
-- 📫 Let's connect on [instagram](/https://www.instagram.com/_abhilash.mali_/)
+- 📫 Let's connect on <a href="https://www.instagram.com/_abhilash.mali_/" target="_blank">Instagram</a>
 
 ## Skills and Tools: <div>
 <p align="center">
