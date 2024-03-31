@@ -2,7 +2,7 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /></p>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/irene-nafula-26210a175/">
+  <a href="https://www.linkedin.com/in/abhilash-mali-422b58143/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://herdataproject.com/blog">
