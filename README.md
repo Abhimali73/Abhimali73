@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/irene-nafula-26210a175/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCaEnuGKGWscOZTWAmJDXyrQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
   <a href="https://herdataproject.com/blog">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
@@ -15,11 +12,11 @@
 
 <!--- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966>--->
 
-- 👋 Hi, I’m Irene Nafula.
-- 👀 I’m a data analyst who enjoys documenting her learning journey.
-- 🌱 I’m currently learning data storytelling.
+- 👋 Hi, I’m Abhilash Mali.
+- 👀 I’m a data analyst who enjoys documenting learning journey.
+- 🌱 I love data storytelling.
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
-- 📫 Let's connect on [instagram](/https://instagram.com/herdataproject) and read my articles [here](https://herdataproject.com/blog)
+- 📫 Let's connect on [instagram](/https://www.instagram.com/_abhilash.mali_/)
 
 ## Skills and Tools: <div>
 <p align="center">
@@ -31,10 +28,8 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/> </a>
   <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
 
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=irene-arch&issues,prs=true&hide=contribs&show_icons=true&title_color=007a74&hide_rank=true)](https://github.com/irene-arch/github-readme-stats)
-
 <!---
-Irene-arch/Irene-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abhimali73/Abhimali73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
