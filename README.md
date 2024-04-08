@@ -75,32 +75,3 @@ You can click the Preview link to take a look at your changes.
     
     
 </div>
-
----
-
-<div align="center">
-  
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=telrich)  
-  
-  ![GitHub metrics](https://metrics.lecoq.io/telrich) 
-  
---- 
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=telrich)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telrich)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=telrich&show_icons=true&count_private=true)  
-  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=telrich)  
-  
-</div>
-  
-  
---->
-  
-  
-  
-  
-  
-  
