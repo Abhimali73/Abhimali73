@@ -12,6 +12,7 @@
 - 👋 Hi, I’m Abhilash Mali.
 - 👀 I’m a data analyst who enjoys documenting learning journey.
 - 🌱 I love data storytelling.
+- 🌱 I’m currently learning how to build simple models as a data analyst
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
 - 📫 Let's connect on <a href="https://www.instagram.com/_abhilash.mali_/" target="_blank">Instagram</a>
 
